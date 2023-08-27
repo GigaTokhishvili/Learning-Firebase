@@ -1,8 +1,23 @@
-# React + Vite
+# Firebase practice project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Techs used:
+1. html;
+2. css;
+3. js;
+4. react;
+5. firebase;
+6. React resizable;
 
-Currently, two official plugins are available:
+# Link:
+https://gigatokhishvili.github.io/Learning-Firebase/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# For users: 
+On this specific website users can only resize the images.
+Users can't log in and out and cant upload images. 
+Ive intentionally limited the number of accounts that can register to 2 and both of those are mine.
+
+# What I learned: 
+1. Uploading, fetching, deleting images on firebase;
+2. Authentication and how to set it up;
+3. How to give special rights to authenticated users;
+4. How to use react resizable;
